@@ -1,4 +1,4 @@
-# Geo-Python 2024 final exercise (40 points)
+# Geo-Python 2025 final exercise (40 points)
 
 The final exercise in the Geo-Python course involves calculating and plotting seasonal weather anomalies to see how temperatures have changed in different seasons over the past 100+ years. We will be using weather data from the Sodankylä weather station in northern Finland.
 
